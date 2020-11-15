@@ -1,0 +1,49 @@
+body {
+  background-color: lightpink;
+  font-family: 'Raleway', sans-serif;
+}
+
+.kortele {
+  width: 300px;
+  margin: 25px auto;
+  box-shadow: 3px 3px darkmagenta;
+  background-color: white;
+  padding: 10px 20px 20px;
+}
+
+.foto {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.pavadinimas {
+  border: 1px solid lightpink;
+  text-transform: uppercase;
+  padding: 10px;
+  margin: 0;
+}
+
+.tekstas {
+  border: 1px solid lightpink;
+  padding: 10px;
+  margin: 0;
+  font-size: 14px;
+}
+
+.citata {
+  font-style: italic;
+  margin: 0;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.paryskinimas {
+  font-weight: bold;
+}
+
+.aprasymas {
+  margin: 0;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
